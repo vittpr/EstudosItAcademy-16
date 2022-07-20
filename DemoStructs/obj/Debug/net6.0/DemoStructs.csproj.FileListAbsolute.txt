@@ -1,0 +1,15 @@
+C:\Users\Vittoria\DemoStructs\bin\Debug\net6.0\DemoStructs.exe
+C:\Users\Vittoria\DemoStructs\bin\Debug\net6.0\DemoStructs.deps.json
+C:\Users\Vittoria\DemoStructs\bin\Debug\net6.0\DemoStructs.runtimeconfig.json
+C:\Users\Vittoria\DemoStructs\bin\Debug\net6.0\DemoStructs.dll
+C:\Users\Vittoria\DemoStructs\bin\Debug\net6.0\DemoStructs.pdb
+C:\Users\Vittoria\DemoStructs\obj\Debug\net6.0\DemoStructs.csproj.AssemblyReference.cache
+C:\Users\Vittoria\DemoStructs\obj\Debug\net6.0\DemoStructs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vittoria\DemoStructs\obj\Debug\net6.0\DemoStructs.AssemblyInfoInputs.cache
+C:\Users\Vittoria\DemoStructs\obj\Debug\net6.0\DemoStructs.AssemblyInfo.cs
+C:\Users\Vittoria\DemoStructs\obj\Debug\net6.0\DemoStructs.csproj.CoreCompileInputs.cache
+C:\Users\Vittoria\DemoStructs\obj\Debug\net6.0\DemoStructs.dll
+C:\Users\Vittoria\DemoStructs\obj\Debug\net6.0\refint\DemoStructs.dll
+C:\Users\Vittoria\DemoStructs\obj\Debug\net6.0\DemoStructs.pdb
+C:\Users\Vittoria\DemoStructs\obj\Debug\net6.0\DemoStructs.genruntimeconfig.cache
+C:\Users\Vittoria\DemoStructs\obj\Debug\net6.0\ref\DemoStructs.dll
