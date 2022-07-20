@@ -1,0 +1,15 @@
+C:\Users\Vittoria\DemoAloMundo\bin\Debug\net6.0\DemoAloMundo.exe
+C:\Users\Vittoria\DemoAloMundo\bin\Debug\net6.0\DemoAloMundo.deps.json
+C:\Users\Vittoria\DemoAloMundo\bin\Debug\net6.0\DemoAloMundo.runtimeconfig.json
+C:\Users\Vittoria\DemoAloMundo\bin\Debug\net6.0\DemoAloMundo.dll
+C:\Users\Vittoria\DemoAloMundo\bin\Debug\net6.0\DemoAloMundo.pdb
+C:\Users\Vittoria\DemoAloMundo\obj\Debug\net6.0\DemoAloMundo.csproj.AssemblyReference.cache
+C:\Users\Vittoria\DemoAloMundo\obj\Debug\net6.0\DemoAloMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vittoria\DemoAloMundo\obj\Debug\net6.0\DemoAloMundo.AssemblyInfoInputs.cache
+C:\Users\Vittoria\DemoAloMundo\obj\Debug\net6.0\DemoAloMundo.AssemblyInfo.cs
+C:\Users\Vittoria\DemoAloMundo\obj\Debug\net6.0\DemoAloMundo.csproj.CoreCompileInputs.cache
+C:\Users\Vittoria\DemoAloMundo\obj\Debug\net6.0\DemoAloMundo.dll
+C:\Users\Vittoria\DemoAloMundo\obj\Debug\net6.0\refint\DemoAloMundo.dll
+C:\Users\Vittoria\DemoAloMundo\obj\Debug\net6.0\DemoAloMundo.pdb
+C:\Users\Vittoria\DemoAloMundo\obj\Debug\net6.0\DemoAloMundo.genruntimeconfig.cache
+C:\Users\Vittoria\DemoAloMundo\obj\Debug\net6.0\ref\DemoAloMundo.dll
