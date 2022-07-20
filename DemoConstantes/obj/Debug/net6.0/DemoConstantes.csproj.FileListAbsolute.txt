@@ -1,0 +1,15 @@
+C:\Users\Vittoria\DemoConstantes\bin\Debug\net6.0\DemoConstantes.exe
+C:\Users\Vittoria\DemoConstantes\bin\Debug\net6.0\DemoConstantes.deps.json
+C:\Users\Vittoria\DemoConstantes\bin\Debug\net6.0\DemoConstantes.runtimeconfig.json
+C:\Users\Vittoria\DemoConstantes\bin\Debug\net6.0\DemoConstantes.dll
+C:\Users\Vittoria\DemoConstantes\bin\Debug\net6.0\DemoConstantes.pdb
+C:\Users\Vittoria\DemoConstantes\obj\Debug\net6.0\DemoConstantes.csproj.AssemblyReference.cache
+C:\Users\Vittoria\DemoConstantes\obj\Debug\net6.0\DemoConstantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vittoria\DemoConstantes\obj\Debug\net6.0\DemoConstantes.AssemblyInfoInputs.cache
+C:\Users\Vittoria\DemoConstantes\obj\Debug\net6.0\DemoConstantes.AssemblyInfo.cs
+C:\Users\Vittoria\DemoConstantes\obj\Debug\net6.0\DemoConstantes.csproj.CoreCompileInputs.cache
+C:\Users\Vittoria\DemoConstantes\obj\Debug\net6.0\DemoConstantes.dll
+C:\Users\Vittoria\DemoConstantes\obj\Debug\net6.0\refint\DemoConstantes.dll
+C:\Users\Vittoria\DemoConstantes\obj\Debug\net6.0\DemoConstantes.pdb
+C:\Users\Vittoria\DemoConstantes\obj\Debug\net6.0\DemoConstantes.genruntimeconfig.cache
+C:\Users\Vittoria\DemoConstantes\obj\Debug\net6.0\ref\DemoConstantes.dll
