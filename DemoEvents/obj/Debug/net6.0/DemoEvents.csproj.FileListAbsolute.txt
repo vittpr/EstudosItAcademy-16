@@ -1,0 +1,15 @@
+C:\Users\55519\DemoEvents\bin\Debug\net6.0\DemoEvents.exe
+C:\Users\55519\DemoEvents\bin\Debug\net6.0\DemoEvents.deps.json
+C:\Users\55519\DemoEvents\bin\Debug\net6.0\DemoEvents.runtimeconfig.json
+C:\Users\55519\DemoEvents\bin\Debug\net6.0\DemoEvents.dll
+C:\Users\55519\DemoEvents\bin\Debug\net6.0\DemoEvents.pdb
+C:\Users\55519\DemoEvents\obj\Debug\net6.0\DemoEvents.csproj.AssemblyReference.cache
+C:\Users\55519\DemoEvents\obj\Debug\net6.0\DemoEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55519\DemoEvents\obj\Debug\net6.0\DemoEvents.AssemblyInfoInputs.cache
+C:\Users\55519\DemoEvents\obj\Debug\net6.0\DemoEvents.AssemblyInfo.cs
+C:\Users\55519\DemoEvents\obj\Debug\net6.0\DemoEvents.csproj.CoreCompileInputs.cache
+C:\Users\55519\DemoEvents\obj\Debug\net6.0\DemoEvents.dll
+C:\Users\55519\DemoEvents\obj\Debug\net6.0\refint\DemoEvents.dll
+C:\Users\55519\DemoEvents\obj\Debug\net6.0\DemoEvents.pdb
+C:\Users\55519\DemoEvents\obj\Debug\net6.0\DemoEvents.genruntimeconfig.cache
+C:\Users\55519\DemoEvents\obj\Debug\net6.0\ref\DemoEvents.dll
