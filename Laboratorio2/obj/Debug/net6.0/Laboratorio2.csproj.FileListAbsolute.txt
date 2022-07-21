@@ -1,0 +1,15 @@
+C:\Users\55519\Laboratorio2\bin\Debug\net6.0\Laboratorio2.exe
+C:\Users\55519\Laboratorio2\bin\Debug\net6.0\Laboratorio2.deps.json
+C:\Users\55519\Laboratorio2\bin\Debug\net6.0\Laboratorio2.runtimeconfig.json
+C:\Users\55519\Laboratorio2\bin\Debug\net6.0\Laboratorio2.dll
+C:\Users\55519\Laboratorio2\bin\Debug\net6.0\Laboratorio2.pdb
+C:\Users\55519\Laboratorio2\obj\Debug\net6.0\Laboratorio2.csproj.AssemblyReference.cache
+C:\Users\55519\Laboratorio2\obj\Debug\net6.0\Laboratorio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55519\Laboratorio2\obj\Debug\net6.0\Laboratorio2.AssemblyInfoInputs.cache
+C:\Users\55519\Laboratorio2\obj\Debug\net6.0\Laboratorio2.AssemblyInfo.cs
+C:\Users\55519\Laboratorio2\obj\Debug\net6.0\Laboratorio2.csproj.CoreCompileInputs.cache
+C:\Users\55519\Laboratorio2\obj\Debug\net6.0\Laboratorio2.dll
+C:\Users\55519\Laboratorio2\obj\Debug\net6.0\refint\Laboratorio2.dll
+C:\Users\55519\Laboratorio2\obj\Debug\net6.0\Laboratorio2.pdb
+C:\Users\55519\Laboratorio2\obj\Debug\net6.0\Laboratorio2.genruntimeconfig.cache
+C:\Users\55519\Laboratorio2\obj\Debug\net6.0\ref\Laboratorio2.dll
