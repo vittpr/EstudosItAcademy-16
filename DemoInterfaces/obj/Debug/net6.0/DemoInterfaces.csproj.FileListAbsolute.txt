@@ -1,0 +1,15 @@
+C:\Users\Vittoria_DaSilvaPres\DemoInterfaces\bin\Debug\net6.0\DemoInterfaces.exe
+C:\Users\Vittoria_DaSilvaPres\DemoInterfaces\bin\Debug\net6.0\DemoInterfaces.deps.json
+C:\Users\Vittoria_DaSilvaPres\DemoInterfaces\bin\Debug\net6.0\DemoInterfaces.runtimeconfig.json
+C:\Users\Vittoria_DaSilvaPres\DemoInterfaces\bin\Debug\net6.0\DemoInterfaces.dll
+C:\Users\Vittoria_DaSilvaPres\DemoInterfaces\bin\Debug\net6.0\DemoInterfaces.pdb
+C:\Users\Vittoria_DaSilvaPres\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.csproj.AssemblyReference.cache
+C:\Users\Vittoria_DaSilvaPres\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vittoria_DaSilvaPres\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.AssemblyInfoInputs.cache
+C:\Users\Vittoria_DaSilvaPres\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.AssemblyInfo.cs
+C:\Users\Vittoria_DaSilvaPres\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Vittoria_DaSilvaPres\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.dll
+C:\Users\Vittoria_DaSilvaPres\DemoInterfaces\obj\Debug\net6.0\refint\DemoInterfaces.dll
+C:\Users\Vittoria_DaSilvaPres\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.pdb
+C:\Users\Vittoria_DaSilvaPres\DemoInterfaces\obj\Debug\net6.0\DemoInterfaces.genruntimeconfig.cache
+C:\Users\Vittoria_DaSilvaPres\DemoInterfaces\obj\Debug\net6.0\ref\DemoInterfaces.dll
